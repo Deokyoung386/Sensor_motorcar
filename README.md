@@ -1,2 +1,3 @@
 # Sensor_motorcar
- 센서모터가
+ 움직이는 방향에 따라
+ LED깜박임 설정
